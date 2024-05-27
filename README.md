@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Jogos Digitais, Analise e Desenvolvimento de Sistemas} na {Estácio}.
+- 🎓 Estudando Jogos Digitais, Analise e Desenvolvimento de Sistemas na Estácio.
 ## Minhas Skills
 
 **Aplicações e dados**
